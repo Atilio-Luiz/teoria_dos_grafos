@@ -1,4 +1,5 @@
-# teoria_dos_grafos
+# Teoria dos Grafos
+
 Material do curso de Teoria dos grafos
 
 -----
@@ -37,6 +38,14 @@ Material do curso de Teoria dos grafos
 - [Slides da aula](slides/aula03-Sequencias-de-graus.pdf)
 - [Prova do Teorema de Berge sobre os 2-switches](slides/Prova_do_Teorema_de_Berge__2_switches_.pdf)
 
+---
+
+# Atividade 02
+
+- [Link para o pdf da atividade](atividades/AC02.pdf)
+
+---
+
 ## Aula 6 - Passeios, Trilhas, Caminhos e Ciclos
 
 - [Link para a aula](https://youtu.be/C8t8yABthus)
@@ -47,4 +56,10 @@ Material do curso de Teoria dos grafos
 - [Link para a aula](https://youtu.be/rU1ZfU6xLIc)
 - [Slides da aula](slides/aula05-Passeios-Trilhas-Caminhos-Ciclos.pdf)
 
+---
 
+# Atividade 03
+
+- [Link para o pdf da atividade](atividades/AC05.pdf)
+
+---
