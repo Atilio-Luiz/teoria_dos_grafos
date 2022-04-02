@@ -34,7 +34,7 @@ Material do curso de Teoria dos grafos
 
 ## Aula 5 - Graus dos vértices e Sequências de Graus
 
-- [Link para a aula]()
+- [Link para a aula](https://youtu.be/cVyD-9P4G2A)
 - [Slides da aula](slides/aula03-Sequencias-de-graus.pdf)
 - [Prova do Teorema de Berge sobre os 2-switches](slides/Prova_do_Teorema_de_Berge__2_switches_.pdf)
 
@@ -63,3 +63,8 @@ Material do curso de Teoria dos grafos
 - [Link para o pdf da atividade](atividades/AC05.pdf)
 
 ---
+
+## Aula 8 - Isomorfismo entre grafos
+
+- [Link para a aula]()
+- [Slides da aula](slides/aula06-Isomorfismo.pdf)
