@@ -98,8 +98,8 @@ Material do curso de Teoria dos grafos
 
 ## Aula 11 - Emparelhamentos em Grafos
 
-- [Link para a aula 11 - Parte 1]()
-- [Link para a aula 11 - Parte 2]()
+- [Link para a aula 11 - Parte 1](https://youtu.be/aj9MzluG3OU)
+- [Link para a aula 11 - Parte 2](https://youtu.be/oRsRBNI72Lg)
 - [Slides da aula](slides/aula09-Emparelhamentos.pdf)
 
 ---
