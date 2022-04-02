@@ -59,7 +59,7 @@ Material do curso de Teoria dos grafos
 
 ---
 
-# Atividade 03
+# Atividade 05
 
 - [Link para o pdf da atividade](atividades/AC05.pdf)
 
@@ -67,5 +67,13 @@ Material do curso de Teoria dos grafos
 
 ## Aula 8 - Isomorfismo entre grafos
 
-- [Link para a aula 8]()
+- [Link para a aula 8](https://youtu.be/Nf_-Nj_jmkc)
 - [Slides da aula](slides/aula06-Isomorfismo.pdf)
+
+---
+
+# Atividade 06
+
+- [Link para o pdf da atividade](atividades/AC06.pdf)
+
+---
