@@ -30,7 +30,7 @@ Material do curso de Teoria dos grafos
 ## Aula 4 - Subgrafos e Operações em Grafos
 
 - [Link para a aula](https://youtu.be/C8t8yABthus)
-- [Slides da aula](slides/aula02-Subgrafos e operacoes.pdf)
+- [Slides da aula](slides/aula02-Subgrafos_e_operacoes.pdf)
 
 ## Aula 5 - Graus dos vértices e Sequências de Graus
 
@@ -48,7 +48,7 @@ Material do curso de Teoria dos grafos
 
 ## Aula 6 - Passeios, Trilhas, Caminhos e Ciclos
 
-- [Link para a aula](https://youtu.be/C8t8yABthus)
+- [Link para a aula](https://youtu.be/iv5TndT28hw)
 - [Slides da aula](slides/aula05-Passeios-Trilhas-Caminhos-Ciclos.pdf)
 
 ## Aula 7 - Distância em Grafos e Caracterização de Grafos Bipartidos
