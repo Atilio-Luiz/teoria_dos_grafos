@@ -110,4 +110,18 @@ Material do curso de Teoria dos grafos
 
 ---
 
+## Aula 12 - Fatorização
+
+- [Link para a aula 12 - Parte 1](https://youtu.be/1m59pbEC7Ec)
+- [Link para a aula 12 - Parte 2](https://youtu.be/nxoDD59ZrJ4)
+- [Prova do Teorema de Tutte](slides/Prova_do_Teorema_de_Tutte.pdf)
+- [Slides da aula](slides/aula10-Fatorizacao.pdf)
+
+---
+
+# Atividade 08
+
+- [Link para o pdf da atividade](atividades/AC08.pdf)
+
+---
 
