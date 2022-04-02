@@ -3,7 +3,7 @@ Material do curso de Teoria dos grafos
 
 -----
 
-## Aula 1
+## Aula 1 - Introdução e Conceitos Iniciais
 
-Link: https://youtu.be/e1NWaX0vpms
-Slide: /slides/aula01-Definicoes-Iniciais.pdf
+- [Link para a aula](https://youtu.be/e1NWaX0vpms)
+- [Slides da aula](slides/aula01-Definicoes-Iniciais.pdf)
