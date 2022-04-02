@@ -20,7 +20,7 @@ Material do curso de Teoria dos grafos
 
 ---
 
-# Atividade
+# Atividade 01
 
 - [Link para o pdf da atividade](atividades/AC01.pdf)
 
@@ -31,14 +31,20 @@ Material do curso de Teoria dos grafos
 - [Link para a aula](https://youtu.be/C8t8yABthus)
 - [Slides da aula](slides/aula02-Subgrafos e operacoes.pdf)
 
-## Aula 5 - Passeios, Trilhas, Caminhos e Ciclos
+## Aula 5 - Graus dos vértices e Sequências de Graus
+
+- [Link para a aula]()
+- [Slides da aula](slides/aula03-Sequencias-de-graus.pdf)
+- [Prova do Teorema de Berge sobre os 2-switches](slides/Prova_do_Teorema_de_Berge__2_switches_.pdf)
+
+## Aula 6 - Passeios, Trilhas, Caminhos e Ciclos
 
 - [Link para a aula](https://youtu.be/C8t8yABthus)
 - [Slides da aula](slides/aula05-Passeios-Trilhas-Caminhos-Ciclos.pdf)
 
-## Aula 6 - Distância em Grafos e Caracterização de Grafos Bipartidos
+## Aula 7 - Distância em Grafos e Caracterização de Grafos Bipartidos
 
-- [Link para a aula](https://youtu.be/C8t8yABthus)
+- [Link para a aula](https://youtu.be/rU1ZfU6xLIc)
 - [Slides da aula](slides/aula05-Passeios-Trilhas-Caminhos-Ciclos.pdf)
 
 
