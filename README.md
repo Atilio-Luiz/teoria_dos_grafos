@@ -77,3 +77,21 @@ Material do curso de Teoria dos grafos
 - [Link para o pdf da atividade](atividades/AC06.pdf)
 
 ---
+
+## Aula 9 - Grafos Eulerianos
+
+- [Link para a aula 9 - Parte 1](https://youtu.be/qdlYUM-etpk)
+- [Link para a aula 9 - Parte 2](https://youtu.be/nR9RCzJCRbs)
+- [Slides da aula](slides/aula07-GrafosEulerianos.pdf)
+
+---
+
+## Aula 10 - Grafos Hamiltonianos
+
+- [Link para a aula 10 - Parte 1](https://youtu.be/eiTS13oopsA)
+- [Link para a aula 10 - Parte 2](https://youtu.be/g19XfkEocEE)
+- [Slides da aula](slides/aula08-GrafosHamiltonianos.pdf)
+
+---
+
+
