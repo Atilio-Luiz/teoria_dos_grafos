@@ -91,6 +91,22 @@ Material do curso de Teoria dos grafos
 - [Link para a aula 10 - Parte 1](https://youtu.be/eiTS13oopsA)
 - [Link para a aula 10 - Parte 2](https://youtu.be/g19XfkEocEE)
 - [Slides da aula](slides/aula08-GrafosHamiltonianos.pdf)
+- [Lista de exercícios sobre Grafos Eulerianos](atividades/Lista06-GrafosEulerianos.pdf)
+- [Lista de Exercícios sobre grafos Hamiltonianos](atividades/lista07-GrafosHamiltonianos.pdf)
+
+---
+
+## Aula 11 - Emparelhamentos em Grafos
+
+- [Link para a aula 11 - Parte 1]()
+- [Link para a aula 11 - Parte 2]()
+- [Slides da aula](slides/aula09-Emparelhamentos.pdf)
+
+---
+
+# Atividade 07
+
+- [Link para o pdf da atividade](atividades/AC07.pdf)
 
 ---
 
