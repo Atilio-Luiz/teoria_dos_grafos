@@ -125,3 +125,33 @@ Material do curso de Teoria dos grafos
 
 ---
 
+## Aula 13 - Grafos Planares
+
+- [Link para a aula 13 - Parte 1](https://youtu.be/WtvHCLF4uc8)
+- [Link para a aula 13 - Parte 2](https://youtu.be/xrva81U9M_M)
+- [Prova do Teorema de Tutte](slides/Prova_do_Teorema_de_Tutte.pdf)
+- [Slides da aula](slides/aula11-Planaridade.pdf)
+
+---
+
+# Atividade 08
+
+- [Link para o pdf da atividade](atividades/AC09.pdf)
+
+---
+
+## Aula 14 - Coloração de vértices
+
+- [Link para a aula 14 - Parte 1](https://youtu.be/2cJGqAImV5o)
+- [Link para a aula 14 - Parte 2](https://youtu.be/FXGEV14FLNA)
+- [Link para a aula 14 - Parte 3](https://youtu.be/fbpCm89jhug)
+- [Prova do Teorema de Brooks](slides/Prova_do_Teorema_de_Brooks.pdf)
+- [Slides da aula](slides/aula12-Coloracao-de-vertices.pdf)
+- [Lista de Exercícios - Coloração de Vértices](slides/lista11-Graph-Coloring.pdf)
+
+---
+
+## Aula 15 - Coloração de arestas
+
+- [Link para a aula 15](https://youtu.be/qSFdE6IZZhw)
+- [Slides da aula](slides/aula13-Coloracao-de-arestas.pdf)
